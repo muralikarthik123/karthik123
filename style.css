@@ -1,0 +1,30 @@
+ul{
+    float:left;
+    list-style-type:none;
+    margin-top:60px;
+    margin-left:120px;
+    font-size:40px;
+}
+
+ul li{
+    display:inline-block;
+}
+
+ul li a{
+    text-decoration:underline;
+    color:rgb(21, 23, 25);
+    padding:50px;
+}
+.text{
+    margin-left:100px;
+    width:500px;
+    font-size: 30px;
+    color:rgb(15, 14, 14);
+}
+form{
+    margin-left:800px;
+    margin-top:-200px;
+    font-size: 40px;
+}
+
+
